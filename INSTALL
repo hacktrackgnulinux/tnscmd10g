@@ -1,0 +1,3 @@
+chmod 775 tnscmd10g.pl
+ln -vs /pentest/02/tnscmd10g/tnscmd10g.pl /usr/bin/tnscmd10g.pl
+ln -vs /pentest/02/tnscmd10g/tnscmd10g.pl /usr/bin/tnscmd10g
